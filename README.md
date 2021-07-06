@@ -1,5 +1,5 @@
 ## ML Group training of OASIS Lab @ NCTU
-![image](https://github.com/Shoawen0213/OASIS_ML-Group-Training/blob/main/OASIS.jpg)
+![image](https://github.com/Shoawen0213/OASIS_ML-Group-Training/blob/main/OASIS.jpg =100x)
 ### (C) Copyright Optimum Application-Specific Integrated System Lab All Right Reserved
 
 - Arthor：Shao-wen,Cheng @ 2021
