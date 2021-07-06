@@ -12,7 +12,7 @@
 | File NAME                                 | decription                  |
 | ------------------------------------------|:---------------------------:|
 | Reference paper                           | Provide some papers which mentioned in practice PDF   |
-| Reference solution                        | Completed version of each practice.            |
+| Sample code                               | Sample code of each practice provided by Shao-wen, Cheng            |
 | Training SPEC                             | Practices' specfication pdf            |
 | Training dataset                          | Some datasets mentioned in practice            |
 
