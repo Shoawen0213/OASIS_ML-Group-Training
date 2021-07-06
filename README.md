@@ -3,9 +3,9 @@
 ### (C) Copyright Optimum Application-Specific Integrated System Lab
 ###                    All Right Reserved
 
-#### Arthor：Shao-wen,Cheng @ 2021
+- Arthor：Shao-wen,Cheng @ 2021
 
-#### Release version : v1.0
+- Release version : v1.0
 
 ### Folder description
 
