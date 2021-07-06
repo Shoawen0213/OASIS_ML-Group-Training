@@ -16,20 +16,5 @@
 | Training SPEC                             | Practices' specfication pdf            |
 
 
-## Experiments Results
-- Tensorboard plot shows episode rewards of at least 800 training episodes in LunarLander-v2 ：
-![image](https://github.com/Shoawen0213/NCTU_IOC_Deep-Learning-and-Practice_Lab/blob/main/Lab6-DQN%20DDPG/img/tensorboard_01.JPG?raw=true)
-
-- Tensorboard plot shows episode rewards of at least 800 training episodes in LunarLanderContinuous-v2 ：
-![image](https://github.com/Shoawen0213/NCTU_IOC_Deep-Learning-and-Practice_Lab/blob/main/Lab6-DQN%20DDPG/img/tensorboard_02.JPG?raw=true)
-
-- DNQ performance： 
-![image](https://github.com/Shoawen0213/NCTU_IOC_Deep-Learning-and-Practice_Lab/blob/main/Lab6-DQN%20DDPG/img/DQN_230.JPG?raw=true)
-
-- DDPG performance： 
-![image](https://github.com/Shoawen0213/NCTU_IOC_Deep-Learning-and-Practice_Lab/blob/main/Lab6-DQN%20DDPG/img/DDPG_278.JPG?raw=true)
-
-
-
 ### Note
 	Arthor：Shao-wen,Cheng @ 2021
