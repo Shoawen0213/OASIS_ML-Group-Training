@@ -1,7 +1,6 @@
 ## ML Group training of OASIS Lab @ NCTU
 
-### (C) Copyright Optimum Application-Specific Integrated System Lab
-###                    All Right Reserved
+### (C) Copyright Optimum Application-Specific Integrated System Lab All Right Reserved
 
 - Arthor：Shao-wen,Cheng @ 2021
 
