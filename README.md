@@ -18,5 +18,5 @@
 
 ### Note
 - All papers, datasets, reference codes and algoriths are all come from Internet, and all of them are only use for non-profit issue such as training lab rookie members.
-- If there's any problem, please fell free to contact me.
+- If there's any problem, please feel free to contact me.
 - E-mail：shaowen.eic09g@nctu.edu.tw
